@@ -1,2 +1,2 @@
-const nombre = 'Luisner'
+const nombre = 'Prueba XYZ'
 console.log(`Hola buen dia como estas ${nombre}`)
